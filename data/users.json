@@ -1,0 +1,560 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "moses",
+			"username": "moshey22",
+			"online_status": "offline",
+			"display_pic": "",
+			"about": "Student studying AI eng..",
+			"full_name": "Moses Shamoun",
+			"status": [
+				{
+					"number": 2
+				}
+			],
+			"posts_number": 10,
+			"followers": 200,
+			"following": 156,
+			"posts": [
+				{
+					"media": "aim.jpg",
+					"text": "This is the post text",
+					"time": "1 day ago",
+					"comments_count": 234,
+					"comments": [
+						"asd;lfsdlkjasdfjasd",
+						"this is what you get",
+						"feeling blessed"
+					],
+					"likes": 23423,
+					"like": false,
+					"save": false
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Trevor",
+			"username": "asdr45996",
+			"online_status": "offline",
+			"display_pic": "img",
+			"about": "See everything as it is",
+			"full_name": "Trevor Kal",
+			"status": [
+				{
+					"number": 5
+				}
+			],
+			"posts_number": 40,
+			"followers": 2000,
+			"following": 700,
+			"posts": [
+				{
+					"media": "begin.jpg",
+					"text": "This is the post text",
+					"time": "1 day ago",
+					"comments_count": 3000,
+					"comments": [
+						"asd;lfsdlkjasdfjasd",
+						"this is what you get",
+						"feeling blessed"
+					],
+					"likes": 23343,
+					"like": false,
+					"save": false
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "fareed",
+			"username": "unique_",
+			"online_status": "offline",
+			"display_pic": "img",
+			"about": "Freedom",
+			"full_name": "Fareed Mahir",
+			"status": [
+				{
+					"number": 1
+				}
+			],
+			"posts_number": 20,
+			"followers": 40,
+			"following": 15,
+			"posts": [
+				{
+					"media": "chess.jpg",
+					"text": "This is the post text",
+					"time": "1 day ago",
+					"comments_count": 2100,
+					"comments": [
+						"asd;lfsdlkjasdfjasd",
+						"this is what you get",
+						"feeling blessed"
+					],
+					"likes": 10,
+					"like": false,
+					"save": false
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "Abdul",
+			"username": "brad_10",
+			"online_status": "online",
+			"display_pic": "img",
+			"about": "...",
+			"full_name": "Abdur raheem",
+			"status": [
+				{
+					"number": 0
+				}
+			],
+			"posts_number": 2,
+			"followers": 2,
+			"following": 100,
+			"posts": [
+				{
+					"media": "farmhouse.jpg",
+					"text": "This is the post text",
+					"time": "1 day ago",
+					"comments_count": 2300,
+					"comments": [
+						"asd;lfsdlkjasdfjasd",
+						"this is what you get",
+						"feeling blessed"
+					],
+					"likes": 1100,
+					"like": false,
+					"save": false
+				}
+			]
+		},
+		{
+			"id": 5,
+			"name": "news",
+			"username": "newsToday",
+			"online_status": "offline",
+			"display_pic": "img",
+			"about": "The best news outlet you know",
+			"full_name": "News Today",
+			"status": [
+				{
+					"number": 4
+				}
+			],
+			"posts_number": 10000,
+			"followers": 200000,
+			"following": 156,
+			"posts": [
+				{
+					"media": "idea.jpg",
+					"text": "This is the post text",
+					"time": "1 day ago",
+					"comments_count": 5000,
+					"comments": [
+						"asd;lfsdlkjasdfjasd",
+						"this is what you get",
+						"feeling blessed"
+					],
+					"likes": 2000,
+					"like": false,
+					"save": false
+				}
+			]
+		},
+		{
+			"id": 6,
+			"name": "zaks",
+			"username": "zaks_kitchen",
+			"online_status": "offline",
+			"display_pic": "img",
+			"about": "Restaurant",
+			"full_name": "Zaks kitchen",
+			"status": [
+				{
+					"number": 4
+				}
+			],
+			"posts_number": 10000,
+			"followers": 4000,
+			"following": 156,
+			"posts": [
+				{
+					"media": "dictionary.jpeg",
+					"text": "This is the post text",
+					"time": "1 day ago",
+					"comments_count": 90,
+					"comments": [
+						"asd;lfsdlkjasdfjasd",
+						"this is what you get",
+						"feeling blessed"
+					],
+					"likes": 12,
+					"like": false,
+					"save": false
+				}
+			]
+		},
+		{
+			"id": 7,
+			"name": "nazir",
+			"username": "rudee22",
+			"online_status": "offline",
+			"display_pic": "img",
+			"about": "Student studying AI eng..",
+			"full_name": "Moses Shamoun",
+			"status": [
+				{
+					"number": 2
+				}
+			],
+			"posts_number": 10,
+			"followers": 200,
+			"following": 156,
+			"posts": [
+				{
+					"media": "lenses.jpg",
+					"text": "This is the post text",
+					"time": "1 day ago",
+					"comments_count": 300,
+					"comments": [
+						"asd;lfsdlkjasdfjasd",
+						"this is what you get",
+						"feeling blessed"
+					],
+					"likes": 7000,
+					"like": false,
+					"save": false
+				}
+			]
+		},
+		{
+			"id": 8,
+			"name": "Bashir",
+			"username": "_bash1",
+			"online_status": "offline",
+			"display_pic": "img",
+			"about": "Student studying AI eng..",
+			"full_name": "Moses Shamoun",
+			"status": [
+				{
+					"number": 2
+				}
+			],
+			"posts_number": 10,
+			"followers": 200,
+			"following": 156,
+			"posts": [
+				{
+					"media": "olympics.jpg",
+					"text": "This is the post text",
+					"time": "1 day ago",
+					"comments_count": 4000,
+					"comments": [
+						"asd;lfsdlkjasdfjasd",
+						"this is what you get",
+						"feeling blessed"
+					],
+					"likes": 1345,
+					"like": false,
+					"save": false
+				}
+			]
+		},
+		{
+			"id": 9,
+			"name": "Daniel",
+			"username": "dany001",
+			"online_status": "offline",
+			"display_pic": "img",
+			"about": "Student studying AI eng..",
+			"full_name": "Moses Shamoun",
+			"status": [
+				{
+					"number": 2
+				}
+			],
+			"posts_number": 10,
+			"followers": 200,
+			"following": 156,
+			"posts": [
+				{
+					"media": "rugby.jpg",
+					"text": "This is the post text",
+					"time": "1 day ago",
+					"comments_count": 200,
+					"comments": [
+						"asd;lfsdlkjasdfjasd",
+						"this is what you get",
+						"feeling blessed"
+					],
+					"likes": 1000,
+					"like": false,
+					"save": false
+				}
+			]
+		},
+		{
+			"id": 10,
+			"name": "Ibrahim",
+			"username": "ibb100",
+			"online_status": "offline",
+			"display_pic": "img",
+			"about": "Student studying AI eng..",
+			"full_name": "Moses Shamoun",
+			"status": [
+				{
+					"number": 2
+				}
+			],
+			"posts_number": 10,
+			"followers": 200,
+			"following": 156,
+			"posts": [
+				{
+					"media": "sheep.jpg",
+					"text": "This is the post text",
+					"time": "1 day ago",
+					"comments_count": 5000,
+					"comments": [
+						"asd;lfsdlkjasdfjasd",
+						"this is what you get",
+						"feeling blessed"
+					],
+					"likes": 700,
+					"like": false,
+					"save": false
+				}
+			]
+		},
+		{
+			"id": 11,
+			"name": "zakir",
+			"username": "its_me",
+			"online_status": "offline",
+			"display_pic": "img",
+			"about": "Student studying AI eng..",
+			"full_name": "Moses Shamoun",
+			"status": [
+				{
+					"number": 2
+				}
+			],
+			"posts_number": 10,
+			"followers": 200,
+			"following": 156,
+			"posts": [
+				{
+					"media": "sports.jpg",
+					"text": "This is the post text",
+					"time": "1 day ago",
+					"comments_count": 9000,
+					"comments": [
+						"asd;lfsdlkjasdfjasd",
+						"this is what you get",
+						"feeling blessed"
+					],
+					"likes": 7000,
+					"like": false,
+					"save": false
+				}
+			]
+		},
+		{
+			"id": 12,
+			"name": "mario",
+			"username": "mariner_123",
+			"online_status": "online",
+			"display_pic": "img",
+			"about": "Student studying AI eng..",
+			"full_name": "Moses Shamoun",
+			"status": [
+				{
+					"number": 2
+				}
+			],
+			"posts_number": 10,
+			"followers": 200,
+			"following": 156,
+			"posts": [
+				{
+					"media": "sunset.jpg",
+					"text": "This is the post text",
+					"time": "1 day ago",
+					"comments_count": 7000,
+					"comments": [
+						"asd;lfsdlkjasdfjasd",
+						"this is what you get",
+						"feeling blessed"
+					],
+					"likes": 8000,
+					"like": false,
+					"save": false
+				}
+			]
+		},
+		{
+			"id": 13,
+			"name": "Tahir",
+			"username": "getty111",
+			"online_status": "online",
+			"display_pic": "img",
+			"about": "Student studying AI eng..",
+			"full_name": "Moses Shamoun",
+			"status": [
+				{
+					"number": 2
+				}
+			],
+			"posts_number": 10,
+			"followers": 200,
+			"following": 156,
+			"posts": [
+				{
+					"media": "unity.webp",
+					"text": "This is the post text",
+					"time": "1 day ago",
+					"comments_count": 20,
+					"comments": [
+						"asd;lfsdlkjasdfjasd",
+						"this is what you get",
+						"feeling blessed"
+					],
+					"likes": 77,
+					"like": false,
+					"save": false
+				}
+			]
+		},
+		{
+			"id": 14,
+			"name": "fred",
+			"username": "feeler",
+			"online_status": "offline",
+			"display_pic": "img",
+			"about": "Student studying AI eng..",
+			"full_name": "Moses Shamoun",
+			"status": [
+				{
+					"number": 2
+				}
+			],
+			"posts_number": 10,
+			"followers": 200,
+			"following": 156,
+			"posts": [
+				{
+					"media": "vintage_dict.jpg",
+					"text": "This is the post text",
+					"time": "1 day ago",
+					"comments_count": 500,
+					"comments": [
+						"asd;lfsdlkjasdfjasd",
+						"this is what you get",
+						"feeling blessed"
+					],
+					"likes": 400,
+					"like": false,
+					"save": false
+				}
+			]
+		}
+	],
+	"reels": [
+		{
+			"id": 1,
+			"likes": 20,
+			"comments": 32,
+			"username": "username",
+			"vid": "idea.jpg"
+		},
+		{
+			"id": 2,
+			"likes": 20,
+			"comments": 32,
+			"username": "username",
+			"vid": "lenses.jpg"
+		},
+		{
+			"id": 3,
+			"likes": 20,
+			"comments": 32,
+			"username": "username",
+			"vid": "sunset.jpg"
+		},
+		{
+			"id": 4,
+			"likes": 20,
+			"comments": 32,
+			"username": "username",
+			"vid": "farmhouse.jpg"
+		}
+	],
+	"media": [
+		{
+			"id": 1,
+			"height": "long",
+			"pic": "lenses.jpg"
+		},
+		{
+			"id": 2,
+			"height": "normal",
+			"pic": "aim.jpg"
+		},
+		{
+			"id": 4,
+			"height": "normal",
+			"pic": "begin.jpg"
+		},
+		{
+			"id": 3,
+			"height": "long",
+			"pic": "chess.jpg"
+		},
+		{
+			"id": 5,
+			"height": "long",
+			"pic": "eight.jpg"
+		},
+		{
+			"id": 6,
+			"height": "normal",
+			"pic": "farmhouse.jpg"
+		},
+		{
+			"id": 8,
+			"height": "normal",
+			"pic": "idea.jpg"
+		},
+		{
+			"id": 7,
+			"height": "long",
+			"pic": "rugby.jpg"
+		},
+		{
+			"id": 9,
+			"height": "long",
+			"pic": "sports.jpg"
+		},
+		{
+			"id": 10,
+			"height": "normal",
+			"pic": "sheep.jpg"
+		}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+

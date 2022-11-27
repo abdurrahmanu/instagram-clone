@@ -1,0 +1,66 @@
+    body, html {
+        margin: 0;
+        padding: 0;
+    }
+
+    body::-webkit-scrollbar {
+        scroll-behavior: smooth;
+        display: none;
+        -ms-overflow-style: none;
+    }
+
+    * {
+        box-sizing: border-box;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    svg {
+        width: 30px;
+        height: 30px;
+    }
+
+    button {
+        background: rgb(94, 94, 234);
+        padding: 10px 20px;
+        border-radius: 10px;
+        border: gray;
+        outline: none;
+    }
+
+    button:hover {
+        background: rgb(117, 117, 233);
+    }
+
+    a {
+        text-decoration: none;
+        color: gray;
+    }
+
+    button:active {
+        background: rgb(153, 153, 227);
+    }
+
+    #max_width {
+        height: 100vh;
+        background: #d0cbcb;
+        display: grid;
+        place-content: center;
+    }
+
+    #max_width p {
+        font-size: 40px;
+        font-family: cursive;
+    }
+
+    #max_width div {
+        background: white;
+        padding: 20px;
+        border-radius: 20px;
+        text-align: center;
+        box-shadow: 1px 1px 1px 1px rgb(153, 150, 150);
+    }
+
+    #max_width svg {
+        width: 100px;
+        height: 100px;
+    }
